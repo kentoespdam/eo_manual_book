@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-> file api.js merupakan dasar bagi frontend untuk menggenerate view sesuai action dan role user login
+> api.js file is library for frontend to generating view based on user role and action
 
 ## api.js Structure
 
