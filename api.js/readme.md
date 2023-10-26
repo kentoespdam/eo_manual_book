@@ -1,10 +1,10 @@
-# Penjelasan api.js
+# Explanation api.js
 
-## Deskripsi
+## Descriptions
 
 > file api.js merupakan dasar bagi frontend untuk menggenerate view sesuai action dan role user login
 
-## Struktur api.js
+## api.js Structure
 
 ### Extension Service name
 
@@ -25,10 +25,10 @@
         }]
     },
     "namespace":"CI"
-};
+}
 ```
 
-#### penjelasan
+#### Explanation
 
 - url : server url
 - type : access server type
