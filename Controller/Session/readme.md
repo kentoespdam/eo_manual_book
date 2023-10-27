@@ -20,4 +20,4 @@
 7. getUserInfo()
     > getting user information
 8. resetPwd($email)
-    > resetting user password 
+    > resetting user password
